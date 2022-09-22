@@ -21,3 +21,16 @@
 4. Una vez que termines cada homework, súbela a tu repositorio `Prep.Course`, con los comandos que ya aprendiste a usar en la primera lección de git.
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)
+
+//editar un archivo
+git status (como venimos)
+git add (agregar)
+git status (ver otra vez como venimos)
+git commit -m "Cambio x" (definir el motivo del cambio de code)
+git push (enviarlo al servidor)
+git status (checar que no haya quedado nada en el tintero)
+
+SCOPE: es una variable que se uasa solo dentro de una function. no lo invoques desde afuera.!
+
+= es para asignar... (ejemplo var PEPE = 5)
+== es para comparar... (ejemplo 5 == 5)
